@@ -1,0 +1,1 @@
+We are a Fellowship of Individuals, collaborating to make Ethereum the best it can be. All are welcome. Read our [Principles](Principles-of-the-Fellowship). You can [donate](http://donations.ethereum-magicians.org) to support events & infrastructure.
